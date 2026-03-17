@@ -1,0 +1,321 @@
+﻿Parameter,Timepoint,Value,Participant,Experiment
+Heart rate (BPM),0,73,Participant 1,Low impact w/ slow tempo
+Breathing rate (BPM),0,20.657,Participant 1,Low impact w/ slow tempo
+Breathing Volume (L),0,0.427,Participant 1,Low impact w/ slow tempo
+Respiratory Volume,0,8.820539,Participant 1,Low impact w/ slow tempo
+Heart rate (BPM),60,115,Participant 1,Low impact w/ slow tempo
+Breathing rate (BPM),60,20.494,Participant 1,Low impact w/ slow tempo
+Breathing Volume (L),60,0.878,Participant 1,Low impact w/ slow tempo
+Respiratory Volume,60,17.993732,Participant 1,Low impact w/ slow tempo
+Heart rate (BPM),120,117,Participant 1,Low impact w/ slow tempo
+Breathing rate (BPM),120,19.604,Participant 1,Low impact w/ slow tempo
+Breathing Volume (L),120,0.983,Participant 1,Low impact w/ slow tempo
+Respiratory Volume,120,19.270732,Participant 1,Low impact w/ slow tempo
+Heart rate (BPM),180,121,Participant 1,Low impact w/ slow tempo
+Breathing rate (BPM),180,22.66,Participant 1,Low impact w/ slow tempo
+Breathing Volume (L),180,1.144,Participant 1,Low impact w/ slow tempo
+Respiratory Volume,180,25.92304,Participant 1,Low impact w/ slow tempo
+Heart rate (BPM),330,76,Participant 1,Low impact w/ slow tempo
+Heart rate (BPM),0,67,Participant 2,Low impact w/ slow tempo
+Heart rate (BPM),30,72,Participant 2,Low impact w/ slow tempo
+Heart rate (BPM),60,124,Participant 2,Low impact w/ slow tempo
+Heart rate (BPM),90,134,Participant 2,Low impact w/ slow tempo
+Heart rate (BPM),120,140,Participant 2,Low impact w/ slow tempo
+Breathing rate (BPM),0,13.602,Participant 2,Low impact w/ slow tempo
+Breathing rate (BPM),30,17.098,Participant 2,Low impact w/ slow tempo
+Breathing rate (BPM),60,20.038,Participant 2,Low impact w/ slow tempo
+Breathing rate (BPM),90,24.551,Participant 2,Low impact w/ slow tempo
+Breathing rate (BPM),120,24.598,Participant 2,Low impact w/ slow tempo
+Breathing Volume (L),0,0.524,Participant 2,Low impact w/ slow tempo
+Breathing Volume (L),30,1.005,Participant 2,Low impact w/ slow tempo
+Breathing Volume (L),60,1.123,Participant 2,Low impact w/ slow tempo
+Breathing Volume (L),90,1.612,Participant 2,Low impact w/ slow tempo
+Breathing Volume (L),120,1.464,Participant 2,Low impact w/ slow tempo
+Respiratory Volume,0,7.127448,Participant 2,Low impact w/ slow tempo
+Respiratory Volume,30,17.18349,Participant 2,Low impact w/ slow tempo
+Respiratory Volume,60,22.502674,Participant 2,Low impact w/ slow tempo
+Respiratory Volume,90,39.576212,Participant 2,Low impact w/ slow tempo
+Respiratory Volume,120,36.011472,Participant 2,Low impact w/ slow tempo
+Heart rate (BPM),450,80,Participant 2,Low impact w/ slow tempo
+Heart rate (BPM),0,56,Participant 3,Low impact w/ slow tempo
+Heart rate (BPM),30,112,Participant 3,Low impact w/ slow tempo
+Heart rate (BPM),60,98,Participant 3,Low impact w/ slow tempo
+Heart rate (BPM),90,96,Participant 3,Low impact w/ slow tempo
+Heart rate (BPM),120,86,Participant 3,Low impact w/ slow tempo
+Breathing rate (BPM),0,20.489,Participant 3,Low impact w/ slow tempo
+Breathing rate (BPM),30,23.266,Participant 3,Low impact w/ slow tempo
+Breathing rate (BPM),60,33.391,Participant 3,Low impact w/ slow tempo
+Breathing rate (BPM),90,25.413,Participant 3,Low impact w/ slow tempo
+Breathing rate (BPM),120,23.663,Participant 3,Low impact w/ slow tempo
+Breathing Volume (L),0,0.255,Participant 3,Low impact w/ slow tempo
+Breathing Volume (L),30,0.26,Participant 3,Low impact w/ slow tempo
+Breathing Volume (L),60,0.198,Participant 3,Low impact w/ slow tempo
+Breathing Volume (L),90,0.427,Participant 3,Low impact w/ slow tempo
+Breathing Volume (L),120,0.499,Participant 3,Low impact w/ slow tempo
+Respiratory Volume,0,5.224695,Participant 3,Low impact w/ slow tempo
+Respiratory Volume,30,6.04916,Participant 3,Low impact w/ slow tempo
+Respiratory Volume,60,6.611418,Participant 3,Low impact w/ slow tempo
+Respiratory Volume,90,10.851351,Participant 3,Low impact w/ slow tempo
+Respiratory Volume,120,11.807837,Participant 3,Low impact w/ slow tempo
+Heart rate (BPM),0,90,Participant 4,Low impact w/ slow tempo
+Heart rate (BPM),30,107,Participant 4,Low impact w/ slow tempo
+Heart rate (BPM),60,119,Participant 4,Low impact w/ slow tempo
+Heart rate (BPM),90,117,Participant 4,Low impact w/ slow tempo
+Heart rate (BPM),120,121,Participant 4,Low impact w/ slow tempo
+Breathing rate (BPM),0,15.003,Participant 4,Low impact w/ slow tempo
+Breathing rate (BPM),30,13.586,Participant 4,Low impact w/ slow tempo
+Breathing rate (BPM),60,16.32,Participant 4,Low impact w/ slow tempo
+Breathing rate (BPM),90,15.112,Participant 4,Low impact w/ slow tempo
+Breathing rate (BPM),120,16.296,Participant 4,Low impact w/ slow tempo
+Breathing Volume (L),0,0.316,Participant 4,Low impact w/ slow tempo
+Breathing Volume (L),30,0.2314,Participant 4,Low impact w/ slow tempo
+Breathing Volume (L),60,0.162,Participant 4,Low impact w/ slow tempo
+Breathing Volume (L),90,0.325,Participant 4,Low impact w/ slow tempo
+Breathing Volume (L),120,0.5341,Participant 4,Low impact w/ slow tempo
+Respiratory Volume,0,4.740948,Participant 4,Low impact w/ slow tempo
+Respiratory Volume,30,3.1438,Participant 4,Low impact w/ slow tempo
+Respiratory Volume,60,2.64384,Participant 4,Low impact w/ slow tempo
+Respiratory Volume,90,4.9114,Participant 4,Low impact w/ slow tempo
+Respiratory Volume,120,8.703694,Participant 4,Low impact w/ slow tempo
+Heart rate (BPM),0,76,Participant 1,Low impact high tempo 
+Heart rate (BPM),60,128,Participant 1,Low impact high tempo 
+Heart rate (BPM),120,127,Participant 1,Low impact high tempo 
+Heart rate (BPM),180,132,Participant 1,Low impact high tempo 
+Breathing rate (BPM),0,17.308,Participant 1,Low impact high tempo 
+Breathing rate (BPM),60,23.915,Participant 1,Low impact high tempo 
+Breathing rate (BPM),120,25.864,Participant 1,Low impact high tempo 
+Breathing rate (BPM),180,28.752,Participant 1,Low impact high tempo 
+Breathing Volume (L),0,0.431,Participant 1,Low impact high tempo 
+Breathing Volume (L),60,1.268,Participant 1,Low impact high tempo 
+Breathing Volume (L),120,1.242,Participant 1,Low impact high tempo 
+Breathing Volume (L),180,1.213,Participant 1,Low impact high tempo 
+Respiratory Volume,0,7.459748,Participant 1,Low impact high tempo 
+Respiratory Volume,60,30.32422,Participant 1,Low impact high tempo 
+Respiratory Volume,120,32.123088,Participant 1,Low impact high tempo 
+Respiratory Volume,300,34.876176,Participant 1,Low impact high tempo 
+Heart rate (BPM),134,76,Participant 2,Low impact high tempo 
+Heart rate (BPM),30,121,Participant 2,Low impact high tempo 
+Heart rate (BPM),60,132,Participant 2,Low impact high tempo 
+Heart rate (BPM),90,145,Participant 2,Low impact high tempo 
+Heart rate (BPM),120,152,Participant 2,Low impact high tempo 
+Breathing rate (BPM),0,11.83,Participant 2,Low impact high tempo 
+Breathing rate (BPM),30,13.913,Participant 2,Low impact high tempo 
+Breathing rate (BPM),60,13.326,Participant 2,Low impact high tempo 
+Breathing rate (BPM),90,13.683,Participant 2,Low impact high tempo 
+Breathing rate (BPM),120,14.865,Participant 2,Low impact high tempo 
+Breathing Volume (L),0,0.364,Participant 2,Low impact high tempo 
+Breathing Volume (L),30,1.012,Participant 2,Low impact high tempo 
+Breathing Volume (L),60,0.755,Participant 2,Low impact high tempo 
+Breathing Volume (L),90,0.463,Participant 2,Low impact high tempo 
+Breathing Volume (L),120,0.558,Participant 2,Low impact high tempo 
+Respiratory Volume,0,4.30612,Participant 2,Low impact high tempo 
+Respiratory Volume,30,14.079956,Participant 2,Low impact high tempo 
+Respiratory Volume,60,10.06113,Participant 2,Low impact high tempo 
+Respiratory Volume,90,6.335229,Participant 2,Low impact high tempo 
+Respiratory Volume,120,8.29467,Participant 2,Low impact high tempo 
+Heart rate (BPM),237,79,Participant 3,Low impact high tempo 
+Heart rate (BPM),0,66,Participant 3,Low impact high tempo 
+Heart rate (BPM),30,94,Participant 3,Low impact high tempo 
+Heart rate (BPM),60,110,Participant 3,Low impact high tempo 
+Heart rate (BPM),90,129,Participant 3,Low impact high tempo 
+Heart rate (BPM),120,110,Participant 3,Low impact high tempo 
+Breathing rate (BPM),0,21.286,Participant 3,Low impact high tempo 
+Breathing rate (BPM),30,24.095,Participant 3,Low impact high tempo 
+Breathing rate (BPM),60,20.713,Participant 3,Low impact high tempo 
+Breathing rate (BPM),90,20.892,Participant 3,Low impact high tempo 
+Breathing rate (BPM),120,22.283,Participant 3,Low impact high tempo 
+Breathing Volume (L),0,0.226,Participant 3,Low impact high tempo 
+Breathing Volume (L),30,0.382,Participant 3,Low impact high tempo 
+Breathing Volume (L),60,0.375,Participant 3,Low impact high tempo 
+Breathing Volume (L),90,0.494,Participant 3,Low impact high tempo 
+Breathing Volume (L),120,0.515,Participant 3,Low impact high tempo 
+Respiratory Volume,0,4.810636,Participant 3,Low impact high tempo 
+Respiratory Volume,30,9.20429,Participant 3,Low impact high tempo 
+Respiratory Volume,60,7.767375,Participant 3,Low impact high tempo 
+Respiratory Volume,90,10.320648,Participant 3,Low impact high tempo 
+Respiratory Volume,120,11.475745,Participant 3,Low impact high tempo 
+Heart rate (BPM),210,66,Participant 3,Low impact high tempo 
+Heart rate (BPM),0,88,Participant 4,Low impact high tempo 
+Heart rate (BPM),30,124,Participant 4,Low impact high tempo 
+Heart rate (BPM),60,129,Participant 4,Low impact high tempo 
+Heart rate (BPM),90,134,Participant 4,Low impact high tempo 
+Heart rate (BPM),120,146,Participant 4,Low impact high tempo 
+Breathing rate (BPM),0,13.695,Participant 4,Low impact high tempo 
+Breathing rate (BPM),30,13.704,Participant 4,Low impact high tempo 
+Breathing rate (BPM),60,14.903,Participant 4,Low impact high tempo 
+Breathing rate (BPM),90,18.283,Participant 4,Low impact high tempo 
+Breathing rate (BPM),120,17.051,Participant 4,Low impact high tempo 
+Breathing Volume (L),0,0.403,Participant 4,Low impact high tempo 
+Breathing Volume (L),30,0.323,Participant 4,Low impact high tempo 
+Breathing Volume (L),60,0.356,Participant 4,Low impact high tempo 
+Breathing Volume (L),90,0.44,Participant 4,Low impact high tempo 
+Breathing Volume (L),120,0.4351,Participant 4,Low impact high tempo 
+Respiratory Volume,0,5.519085,Participant 4,Low impact high tempo 
+Respiratory Volume,30,4.426392,Participant 4,Low impact high tempo 
+Respiratory Volume,60,5.305468,Participant 4,Low impact high tempo 
+Respiratory Volume,90,8.04452,Participant 4,Low impact high tempo 
+Respiratory Volume,120,7.4188901,Participant 4,Low impact high tempo 
+Heart rate (BPM),240,92,Participant 4,Low impact high tempo 
+Heart rate (BPM),0,77,Participant 1,High Impact w/ slow tempo
+Heart rate (BPM),60,156,Participant 1,High Impact w/ slow tempo
+Heart rate (BPM),120,150,Participant 1,High Impact w/ slow tempo
+Heart rate (BPM),180,163,Participant 1,High Impact w/ slow tempo
+Breathing rate (BPM),0,18.786,Participant 1,High Impact w/ slow tempo
+Breathing rate (BPM),60,32.406,Participant 1,High Impact w/ slow tempo
+Breathing rate (BPM),120,33.551,Participant 1,High Impact w/ slow tempo
+Breathing rate (BPM),180,31.415,Participant 1,High Impact w/ slow tempo
+Breathing Volume (L),0,0.587,Participant 1,High Impact w/ slow tempo
+Breathing Volume (L),60,2.368,Participant 1,High Impact w/ slow tempo
+Breathing Volume (L),120,1.926,Participant 1,High Impact w/ slow tempo
+Breathing Volume (L),180,1.689,Participant 1,High Impact w/ slow tempo
+Respiratory Volume,0,11.027382,Participant 1,High Impact w/ slow tempo
+Respiratory Volume,60,76.737408,Participant 1,High Impact w/ slow tempo
+Respiratory Volume,120,64.619226,Participant 1,High Impact w/ slow tempo
+Respiratory Volume,180,53.059935,Participant 1,High Impact w/ slow tempo
+Heart rate (BPM),0,85,Participant 2,High Impact w/ slow tempo
+Heart rate (BPM),30,140,Participant 2,High Impact w/ slow tempo
+Heart rate (BPM),60,154,Participant 2,High Impact w/ slow tempo
+Heart rate (BPM),90,160,Participant 2,High Impact w/ slow tempo
+Heart rate (BPM),120,144,Participant 2,High Impact w/ slow tempo
+Breathing rate (BPM),0,12.159,Participant 2,High Impact w/ slow tempo
+Breathing rate (BPM),30,23.764,Participant 2,High Impact w/ slow tempo
+Breathing rate (BPM),60,26.17,Participant 2,High Impact w/ slow tempo
+Breathing rate (BPM),90,27.619,Participant 2,High Impact w/ slow tempo
+Breathing rate (BPM),120,34.891,Participant 2,High Impact w/ slow tempo
+Breathing Volume (L),0,0.351,Participant 2,High Impact w/ slow tempo
+Breathing Volume (L),30,1.587,Participant 2,High Impact w/ slow tempo
+Breathing Volume (L),60,2.239,Participant 2,High Impact w/ slow tempo
+Breathing Volume (L),90,2.834,Participant 2,High Impact w/ slow tempo
+Breathing Volume (L),120,3.141,Participant 2,High Impact w/ slow tempo
+Respiratory Volume,0,4.267809,Participant 2,High Impact w/ slow tempo
+Respiratory Volume,30,37.713468,Participant 2,High Impact w/ slow tempo
+Respiratory Volume,60,58.59463,Participant 2,High Impact w/ slow tempo
+Respiratory Volume,90,78.272246,Participant 2,High Impact w/ slow tempo
+Respiratory Volume,120,109.592631,Participant 2,High Impact w/ slow tempo
+Heart rate (BPM),372,89,Participant 2,High Impact w/ slow tempo
+Heart rate (BPM),0,69,Participant 3,High Impact w/ slow tempo
+Heart rate (BPM),30,131,Participant 3,High Impact w/ slow tempo
+Heart rate (BPM),60,118,Participant 3,High Impact w/ slow tempo
+Heart rate (BPM),90,160,Participant 3,High Impact w/ slow tempo
+Heart rate (BPM),120,171,Participant 3,High Impact w/ slow tempo
+Breathing rate (BPM),0,24.508,Participant 3,High Impact w/ slow tempo
+Breathing rate (BPM),30,25.243,Participant 3,High Impact w/ slow tempo
+Breathing rate (BPM),60,25.982,Participant 3,High Impact w/ slow tempo
+Breathing rate (BPM),90,26.894,Participant 3,High Impact w/ slow tempo
+Breathing rate (BPM),120,26.742,Participant 3,High Impact w/ slow tempo
+Breathing Volume (L),0,0.271,Participant 3,High Impact w/ slow tempo
+Breathing Volume (L),30,0.349,Participant 3,High Impact w/ slow tempo
+Breathing Volume (L),60,0.623,Participant 3,High Impact w/ slow tempo
+Breathing Volume (L),90,0.8292,Participant 3,High Impact w/ slow tempo
+Breathing Volume (L),120,0.8446,Participant 3,High Impact w/ slow tempo
+Respiratory Volume,0,6.641668,Participant 3,High Impact w/ slow tempo
+Respiratory Volume,30,8.809807,Participant 3,High Impact w/ slow tempo
+Respiratory Volume,60,16.186786,Participant 3,High Impact w/ slow tempo
+Respiratory Volume,90,22.300505,Participant 3,High Impact w/ slow tempo
+Respiratory Volume,120,22.586293,Participant 3,High Impact w/ slow tempo
+Heart rate (BPM),540,70,Participant 3,High Impact w/ slow tempo
+Heart rate (BPM),0,91,Participant 4,High Impact w/ slow tempo
+Heart rate (BPM),30,142,Participant 4,High Impact w/ slow tempo
+Heart rate (BPM),60,133,Participant 4,High Impact w/ slow tempo
+Heart rate (BPM),90,150,Participant 4,High Impact w/ slow tempo
+Heart rate (BPM),120,166,Participant 4,High Impact w/ slow tempo
+Breathing rate (BPM),0,11.887,Participant 4,High Impact w/ slow tempo
+Breathing rate (BPM),30,37.87,Participant 4,High Impact w/ slow tempo
+Breathing rate (BPM),60,17.931,Participant 4,High Impact w/ slow tempo
+Breathing rate (BPM),90,18.174,Participant 4,High Impact w/ slow tempo
+Breathing rate (BPM),120,19.119,Participant 4,High Impact w/ slow tempo
+Breathing Volume (L),0,0.353,Participant 4,High Impact w/ slow tempo
+Breathing Volume (L),30,0.2101,Participant 4,High Impact w/ slow tempo
+Breathing Volume (L),60,0.391,Participant 4,High Impact w/ slow tempo
+Breathing Volume (L),90,0.446,Participant 4,High Impact w/ slow tempo
+Breathing Volume (L),120,0.478,Participant 4,High Impact w/ slow tempo
+Respiratory Volume,0,4.196111,Participant 4,High Impact w/ slow tempo
+Respiratory Volume,30,7.956487,Participant 4,High Impact w/ slow tempo
+Respiratory Volume,60,7.011021,Participant 4,High Impact w/ slow tempo
+Respiratory Volume,90,8.105604,Participant 4,High Impact w/ slow tempo
+Respiratory Volume,120,9.138882,Participant 4,High Impact w/ slow tempo
+Heart rate (BPM),380,94,Participant 4,High Impact w/ slow tempo
+Heart rate (BPM),0,63,Participant 1,High Impact w/ fast tempo
+Heart rate (BPM),30,117,Participant 1,High Impact w/ fast tempo
+Heart rate (BPM),60,120,Participant 1,High Impact w/ fast tempo
+Heart rate (BPM),90,140,Participant 1,High Impact w/ fast tempo
+Heart rate (BPM),120,146,Participant 1,High Impact w/ fast tempo
+Breathing rate (BPM),0,19.585,Participant 1,High Impact w/ fast tempo
+Breathing rate (BPM),30,27.518,Participant 1,High Impact w/ fast tempo
+Breathing rate (BPM),60,25.147,Participant 1,High Impact w/ fast tempo
+Breathing rate (BPM),90,23.895,Participant 1,High Impact w/ fast tempo
+Breathing rate (BPM),120,27.677,Participant 1,High Impact w/ fast tempo
+Breathing Volume (L),0,0.415,Participant 1,High Impact w/ fast tempo
+Breathing Volume (L),30,1.107,Participant 1,High Impact w/ fast tempo
+Breathing Volume (L),60,1.118,Participant 1,High Impact w/ fast tempo
+Breathing Volume (L),90,1.062,Participant 1,High Impact w/ fast tempo
+Breathing Volume (L),120,0.998,Participant 1,High Impact w/ fast tempo
+Respiratory Volume,0,8.127775,Participant 1,High Impact w/ fast tempo
+Respiratory Volume,30,30.462426,Participant 1,High Impact w/ fast tempo
+Respiratory Volume,60,28.114346,Participant 1,High Impact w/ fast tempo
+Respiratory Volume,90,25.37649,Participant 1,High Impact w/ fast tempo
+Respiratory Volume,120,27.621646,Participant 1,High Impact w/ fast tempo
+Heart rate (BPM),225,73,Participant 1,High Impact w/ fast tempo
+Heart rate (BPM),0,95,Participant 2,High Impact w/ fast tempo
+Heart rate (BPM),30,144,Participant 2,High Impact w/ fast tempo
+Heart rate (BPM),60,172,Participant 2,High Impact w/ fast tempo
+Heart rate (BPM),90,178,Participant 2,High Impact w/ fast tempo
+Heart rate (BPM),120,171,Participant 2,High Impact w/ fast tempo
+Breathing rate (BPM),0,10.017,Participant 2,High Impact w/ fast tempo
+Breathing rate (BPM),30,19.013,Participant 2,High Impact w/ fast tempo
+Breathing rate (BPM),60,24.716,Participant 2,High Impact w/ fast tempo
+Breathing rate (BPM),90,23.806,Participant 2,High Impact w/ fast tempo
+Breathing rate (BPM),120,24.873,Participant 2,High Impact w/ fast tempo
+Breathing Volume (L),0,0.192,Participant 2,High Impact w/ fast tempo
+Breathing Volume (L),30,0.762,Participant 2,High Impact w/ fast tempo
+Breathing Volume (L),60,0.997,Participant 2,High Impact w/ fast tempo
+Breathing Volume (L),90,1.189,Participant 2,High Impact w/ fast tempo
+Breathing Volume (L),120,0.842,Participant 2,High Impact w/ fast tempo
+Respiratory Volume,0,1.923264,Participant 2,High Impact w/ fast tempo
+Respiratory Volume,30,14.487906,Participant 2,High Impact w/ fast tempo
+Respiratory Volume,60,24.641852,Participant 2,High Impact w/ fast tempo
+Respiratory Volume,90,28.305334,Participant 2,High Impact w/ fast tempo
+Respiratory Volume,120,20.943066,Participant 2,High Impact w/ fast tempo
+Heart rate (BPM),423,98,Participant 2,High Impact w/ fast tempo
+Heart rate (BPM),0,94,Participant 3,High Impact w/ fast tempo
+Heart rate (BPM),30,143,Participant 3,High Impact w/ fast tempo
+Heart rate (BPM),60,153,Participant 3,High Impact w/ fast tempo
+Heart rate (BPM),90,160,Participant 3,High Impact w/ fast tempo
+Heart rate (BPM),120,167,Participant 3,High Impact w/ fast tempo
+Breathing rate (BPM),0,22.538,Participant 3,High Impact w/ fast tempo
+Breathing rate (BPM),30,24.628,Participant 3,High Impact w/ fast tempo
+Breathing rate (BPM),60,21.366,Participant 3,High Impact w/ fast tempo
+Breathing rate (BPM),90,21.762,Participant 3,High Impact w/ fast tempo
+Breathing rate (BPM),120,23.364,Participant 3,High Impact w/ fast tempo
+Breathing Volume (L),0,0.219,Participant 3,High Impact w/ fast tempo
+Breathing Volume (L),30,0.429,Participant 3,High Impact w/ fast tempo
+Breathing Volume (L),60,0.387,Participant 3,High Impact w/ fast tempo
+Breathing Volume (L),90,0.468,Participant 3,High Impact w/ fast tempo
+Breathing Volume (L),120,0.437,Participant 3,High Impact w/ fast tempo
+Respiratory Volume,0,4.935822,Participant 3,High Impact w/ fast tempo
+Respiratory Volume,30,10.565412,Participant 3,High Impact w/ fast tempo
+Respiratory Volume,60,8.268642,Participant 3,High Impact w/ fast tempo
+Respiratory Volume,90,10.184616,Participant 3,High Impact w/ fast tempo
+Respiratory Volume,120,10.210068,Participant 3,High Impact w/ fast tempo
+Heart rate (BPM),504,93,Participant 3,High Impact w/ fast tempo
+Heart rate (BPM),0,98,Participant 4,High Impact w/ fast tempo
+Heart rate (BPM),30,176,Participant 4,High Impact w/ fast tempo
+Heart rate (BPM),60,169,Participant 4,High Impact w/ fast tempo
+Heart rate (BPM),90,173,Participant 4,High Impact w/ fast tempo
+Heart rate (BPM),120,177,Participant 4,High Impact w/ fast tempo
+Breathing rate (BPM),0,14.974,Participant 4,High Impact w/ fast tempo
+Breathing rate (BPM),30,20.28,Participant 4,High Impact w/ fast tempo
+Breathing rate (BPM),60,21.107,Participant 4,High Impact w/ fast tempo
+Breathing rate (BPM),90,21.399,Participant 4,High Impact w/ fast tempo
+Breathing rate (BPM),120,20.581,Participant 4,High Impact w/ fast tempo
+Breathing Volume (L),0,0.349,Participant 4,High Impact w/ fast tempo
+Breathing Volume (L),30,0.454,Participant 4,High Impact w/ fast tempo
+Breathing Volume (L),60,0.384,Participant 4,High Impact w/ fast tempo
+Breathing Volume (L),90,0.474,Participant 4,High Impact w/ fast tempo
+Breathing Volume (L),120,0.452,Participant 4,High Impact w/ fast tempo
+Respiratory Volume,0,5.225926,Participant 4,High Impact w/ fast tempo
+Respiratory Volume,30,9.20712,Participant 4,High Impact w/ fast tempo
+Respiratory Volume,60,8.105088,Participant 4,High Impact w/ fast tempo
+Respiratory Volume,90,10.143126,Participant 4,High Impact w/ fast tempo
+Respiratory Volume,120,9.302612,Participant 4,High Impact w/ fast tempo
+Heart rate (BPM),345,98,Participant 4,High Impact w/ fast tempo
